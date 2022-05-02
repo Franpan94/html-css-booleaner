@@ -4,16 +4,13 @@ body{
 
 header{
     background-color: dodgerblue;
-    
+    background-image: url(../img/pattern.png);
+    height: 175px;;
 }
 
-.pattern{  
-    width: 215px;
-}
-
- 
 .logo{
-    width: 10%;
+    margin-top: 90px;
+    width: 15%;
     }
 
 
