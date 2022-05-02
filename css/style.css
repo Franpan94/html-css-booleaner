@@ -70,5 +70,29 @@ main{
     font-size: 25px;;
 }
 
+.foot{
+    margin-left: 10px;
+    padding-bottom: 50px;
+}
+
+.loren{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+.testo{
+    margin-left: 15px;
+    padding-top: 15px;
+    color: white;
+}
+
+.lorendue{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
+
+
 
 
