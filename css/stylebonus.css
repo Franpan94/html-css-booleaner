@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: dodgerblue;
+    background-image: url(../img/pattern.png);
+    height: 175px; 
+}
+
+main{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.logo{
+    margin-left: 250px;
+    margin-top: 90px;
+    width: 15%;
+    }
+
+.sottotitolo{
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.timuno{
+    width: 52%;
+}
+
+.timdue{
+    width: 44.5%;
+}
+
+.colore{
+   font-size: 25px;   
+   color: gray;
+}
+
+.foto{
+    font-size: 15px;
+}
+
+.carattere{
+    font-size: 25px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.colonnauno{
+    color: white;
+    background-color: deepskyblue;
+    width: 500px;
+}
+
+.colonnadue{
+    background-color: lightblue;
+    width: 500px;
+    height: 100px;
+}
+
+.colonnatre{
+    width: 500px;
+    height: 100px;
+}
+
+.interesse{
+    color: grey;
+    font-size: 25px;;
+}
+
+.foot{
+    margin-left: 10px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+}
+
+.loren{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+.testo{
+    margin-left: 15px;
+    padding-top: 15px;
+    color: white;
+}
+
+.lorendue{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
+
+
+
+
