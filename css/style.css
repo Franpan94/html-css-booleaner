@@ -5,13 +5,40 @@ body{
 header{
     background-color: dodgerblue;
     background-image: url(../img/pattern.png);
-    height: 175px;;
+    height: 175px; 
+}
+
+main{
+    font-size: 30px;
+    margin-left: 10px;
 }
 
 .logo{
     margin-top: 90px;
     width: 15%;
     }
+
+.sottotitolo{
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.timuno{
+    width: 52%;
+}
+
+.timdue{
+    width: 44.5%;
+}
+
+.colore{
+   font-size: 25px;   
+   color: gray;
+}
+
+.foto{
+    font-size: 15px;
+}
 
 
 
