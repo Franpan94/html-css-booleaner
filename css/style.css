@@ -40,6 +40,35 @@ main{
     font-size: 15px;
 }
 
+.carattere{
+    font-size: 25px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.colonnauno{
+    color: white;
+    background-color: deepskyblue;
+    width: 500px;
+}
+
+.colonnadue{
+    background-color: lightblue;
+    width: 500px;
+    height: 100px;
+}
+
+.colonnatre{
+    width: 500px;
+    height: 100px;
+}
+
+.interesse{
+    color: grey;
+    font-size: 25px;;
+}
 
 
 
