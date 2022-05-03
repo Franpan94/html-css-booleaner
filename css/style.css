@@ -42,6 +42,7 @@ main{
 
 .carattere{
     font-size: 25px;
+    border-spacing: 0;
 }
 
 .giallo{
