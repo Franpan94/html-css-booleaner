@@ -8,15 +8,15 @@ header{
     height: 175px; 
 }
 
-main{
-    font-size: 30px;
-    margin-left: 10px;
-}
-
 .logo{
     margin-top: 90px;
     width: 15%;
     }
+
+main{
+    font-size: 30px;
+    margin-left: 10px;
+}
 
 .sottotitolo{
     text-decoration: none;

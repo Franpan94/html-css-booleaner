@@ -8,17 +8,17 @@ header{
     height: 175px; 
 }
 
-main{
-    font-size: 25px;
-    margin-left: 100px;
-    margin-right: 100px;
-}
-
 .logo{
     margin-left: 250px;
     margin-top: 90px;
     width: 15%;
     }
+
+main{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 
 .sottotitolo{
     text-decoration: none;
